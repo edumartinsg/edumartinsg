@@ -13,7 +13,7 @@
   ##
  
 <div> 
-  <a href = "mailto:edu19_96@hotmail.com"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail-plain.svg" target="_blank"></a>
+  <a href = "mailto:edu19_96@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Mail me&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edumartinsg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
