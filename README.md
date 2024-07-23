@@ -6,8 +6,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-     <img align="center" alt="HTML" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs.svg">
-    <img align="center" alt="HTML" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest.svg">
+     <img align="center" alt="HTML" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest-original.svg">
 
 </div>
   
