@@ -15,6 +15,6 @@
 ##
 
 <div> 
-  <a href = "mailto:edu19_96@hotmail.com"><img src="https://img.shields.io/badge/-edu19_96@hotmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edu19_96@hotmail.com"><img src="https://img.shields.io/badge/-edu19__96%40hotmail.com-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edumartinsg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
